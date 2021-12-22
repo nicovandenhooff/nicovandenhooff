@@ -73,6 +73,7 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
+  
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#75](https://github.com/UBC-MDS/online-shoppers-purchasing-intention/issues/75) in [UBC-MDS/online-shoppers-purchasing-intention](https://github.com/UBC-MDS/online-shoppers-purchasing-intention)
 2. 🗣 Commented on [#75](https://github.com/UBC-MDS/online-shoppers-purchasing-intention/issues/75) in [UBC-MDS/online-shoppers-purchasing-intention](https://github.com/UBC-MDS/online-shoppers-purchasing-intention)
