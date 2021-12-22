@@ -69,6 +69,8 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 
 [![Nico Van den Hooff's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicovandenhooff&bg_color=000000&color=FFFFFF&line=861AF7&point=861AF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--START_SECTION:activity-->
+
 <!--
 TODO: Wakatime section
 https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/.github/workflows/update-stats.yml
