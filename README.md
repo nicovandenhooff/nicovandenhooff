@@ -66,6 +66,13 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 ## Github stats
 
 <!--START_SECTION:waka-->
+```text
+Python     21 hrs 11 mins  ███████████████████████░░   92.25 % 
+Markdown   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+INI        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+JSON       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Makefile   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+```
 <!--END_SECTION:waka-->
 
 [![Nicos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicovandenhooff&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&hide=stars&show_icons=true&icon_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
