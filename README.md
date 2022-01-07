@@ -63,9 +63,7 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 ![](https://img.shields.io/badge/passwords-Bitwarden-861AF7?logo=Bitwarden&logoColor=white)
 
 
-## Github stats
-
-### Wakatime weekly summary
+## Wakatime weekly summary
 <!--START_SECTION:waka-->
 ```text
 Python     21 hrs 11 mins  ███████████████████████░░   92.25 % 
@@ -76,7 +74,9 @@ Makefile   11 mins         ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![Nicos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicovandenhooff&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&show_icons=true&icon_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## Github stats
+
+[![Nicos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicovandenhooff&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&show_icons=true&icon_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Nico Van den Hooff's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicovandenhooff&bg_color=000000&color=FFFFFF&line=861AF7&point=861AF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
