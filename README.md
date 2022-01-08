@@ -86,11 +86,11 @@ Makefile   11 mins         ▒░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#75](https://github.com/UBC-MDS/online-shoppers-purchasing-intention/issues/75) in [UBC-MDS/online-shoppers-purchasing-intention](https://github.com/UBC-MDS/online-shoppers-purchasing-intention)
-2. 🗣 Commented on [#75](https://github.com/UBC-MDS/online-shoppers-purchasing-intention/issues/75) in [UBC-MDS/online-shoppers-purchasing-intention](https://github.com/UBC-MDS/online-shoppers-purchasing-intention)
-3. ❗️ Closed issue [#9](https://github.com/mel-liow/ml-nyc-airbnb/issues/9) in [mel-liow/ml-nyc-airbnb](https://github.com/mel-liow/ml-nyc-airbnb)
-4. 🎉 Merged PR [#15](https://github.com/mel-liow/ml-nyc-airbnb/pull/15) in [mel-liow/ml-nyc-airbnb](https://github.com/mel-liow/ml-nyc-airbnb)
-5. 💪 Opened PR [#15](https://github.com/mel-liow/ml-nyc-airbnb/pull/15) in [mel-liow/ml-nyc-airbnb](https://github.com/mel-liow/ml-nyc-airbnb)
+1. ❗️ Opened issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+2. ❗️ Closed issue [#75](https://github.com/UBC-MDS/online-shoppers-purchasing-intention/issues/75) in [UBC-MDS/online-shoppers-purchasing-intention](https://github.com/UBC-MDS/online-shoppers-purchasing-intention)
+3. 🗣 Commented on [#75](https://github.com/UBC-MDS/online-shoppers-purchasing-intention/issues/75) in [UBC-MDS/online-shoppers-purchasing-intention](https://github.com/UBC-MDS/online-shoppers-purchasing-intention)
+4. ❗️ Closed issue [#9](https://github.com/mel-liow/ml-nyc-airbnb/issues/9) in [mel-liow/ml-nyc-airbnb](https://github.com/mel-liow/ml-nyc-airbnb)
+5. 🎉 Merged PR [#15](https://github.com/mel-liow/ml-nyc-airbnb/pull/15) in [mel-liow/ml-nyc-airbnb](https://github.com/mel-liow/ml-nyc-airbnb)
 <!--END_SECTION:activity-->
 </details>
 
