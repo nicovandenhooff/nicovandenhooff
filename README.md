@@ -66,11 +66,11 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 ## Wakatime weekly summary
 <!--START_SECTION:waka-->
 ```text
-Python     21 hrs 11 mins  ███████████████████████░░   92.25 % 
-Markdown   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-INI        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-JSON       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Makefile   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Python     20 hrs 29 mins  ██████████████████████░░░   88.12 % 
+Markdown   1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+INI        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JSON       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TOML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
