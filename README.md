@@ -76,9 +76,7 @@ YAML       18 mins         ▒░░░░░░░░░░░░░░░░�
 
 ## Github stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicovandenhooff&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&show_icons=true&icon_color=FFFFFF&count_private=true&include_all_commits=true)" />
-</a>
+[![Nicos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicovandenhooff&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&show_icons=true&icon_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Nico Van den Hooff's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicovandenhooff&bg_color=000000&color=FFFFFF&line=861AF7&point=861AF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
