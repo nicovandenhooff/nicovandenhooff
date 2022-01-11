@@ -63,7 +63,7 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 ![](https://img.shields.io/badge/passwords-Bitwarden-861AF7?logo=Bitwarden&logoColor=white)
 
 
-## Wakatime weekly summary
+## Weekly development summary
 <!--START_SECTION:waka-->
 ```text
 Python     20 hrs 29 mins  █████████████████████▒░░░   84.81 % 
@@ -93,8 +93,3 @@ YAML       18 mins         ▒░░░░░░░░░░░░░░░░�
 5. ❗️ Opened issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
 <!--END_SECTION:activity-->
 </details>
-
-<!--
-TODO: Wakatime section
-https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/.github/workflows/update-stats.yml
--->
