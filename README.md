@@ -86,11 +86,11 @@ YAML       18 mins         ▒░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-2. ❗️ Closed issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-3. 🗣 Commented on [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-4. ❗️ Opened issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-5. 🗣 Commented on [#75](https://github.com/UBC-MDS/online-shoppers-purchasing-intention/issues/75) in [UBC-MDS/online-shoppers-purchasing-intention](https://github.com/UBC-MDS/online-shoppers-purchasing-intention)
+1. ❗️ Opened issue [#3](https://github.com/nicovandenhooff/reddit-data-collector/issues/3) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+2. ❗️ Opened issue [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+3. ❗️ Closed issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+4. 🗣 Commented on [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+5. ❗️ Opened issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
 <!--END_SECTION:activity-->
 </details>
 
