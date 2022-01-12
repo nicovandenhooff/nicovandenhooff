@@ -86,10 +86,10 @@ INI        28 mins         ▒░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/nicovandenhooff/reddit-data-collector/issues/3) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-2. ❗️ Opened issue [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-3. ❗️ Closed issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-4. 🗣 Commented on [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-5. ❗️ Opened issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+1. ❗️ Opened issue [#4](https://github.com/nicovandenhooff/reddit-data-collector/issues/4) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+2. ❗️ Opened issue [#3](https://github.com/nicovandenhooff/reddit-data-collector/issues/3) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+3. ❗️ Opened issue [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+4. ❗️ Closed issue [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+5. 🗣 Commented on [#1](https://github.com/nicovandenhooff/reddit-data-collector/issues/1) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
 <!--END_SECTION:activity-->
 </details>
