@@ -66,11 +66,11 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 ## Weekly development summary
 <!--START_SECTION:waka-->
 ```text
-Python     20 hrs 55 mins  ████████████████████▓░░░░   82.60 % 
-Markdown   2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-TOML       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-YAML       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-INI        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python     12 hrs 49 mins  ██████████████████▒░░░░░░   73.27 % 
+Markdown   2 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+TOML       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+YAML       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+INI        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 <!--END_SECTION:waka-->
 
