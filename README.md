@@ -86,10 +86,10 @@ TeX        14 mins         █░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/nicovandenhooff/reddit-data-collector/issues/7) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-2. ❗️ Closed issue [#4](https://github.com/nicovandenhooff/reddit-data-collector/issues/4) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-3. 🗣 Commented on [#4](https://github.com/nicovandenhooff/reddit-data-collector/issues/4) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-4. 🎉 Merged PR [#6](https://github.com/nicovandenhooff/reddit-data-collector/pull/6) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-5. 💪 Opened PR [#6](https://github.com/nicovandenhooff/reddit-data-collector/pull/6) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+1. ❗️ Opened issue [#23](https://github.com/UBC-MDS/CoordGeomPy/issues/23) in [UBC-MDS/CoordGeomPy](https://github.com/UBC-MDS/CoordGeomPy)
+2. ❗️ Opened issue [#7](https://github.com/nicovandenhooff/reddit-data-collector/issues/7) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+3. ❗️ Closed issue [#4](https://github.com/nicovandenhooff/reddit-data-collector/issues/4) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+4. 🗣 Commented on [#4](https://github.com/nicovandenhooff/reddit-data-collector/issues/4) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+5. 🎉 Merged PR [#6](https://github.com/nicovandenhooff/reddit-data-collector/pull/6) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
 <!--END_SECTION:activity-->
 </details>
