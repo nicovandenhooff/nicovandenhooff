@@ -67,11 +67,11 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 *Note: This is a summary of my weekly Visual Studio Code time, but does not include the time I spend working with Jupyter Notebooks/Google Collab.*
 <!--START_SECTION:waka-->
 ```text
-Python     4 hrs 26 mins   ███████████████▓░░░░░░░░░   62.78 % 
-Markdown   1 hr 41 mins    ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Other      20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-YAML       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-TeX        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Python     4 hrs 26 mins   ████████████████▒░░░░░░░░   65.48 % 
+Markdown   1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Other      20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+YAML       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+TeX        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 <!--END_SECTION:waka-->
 
