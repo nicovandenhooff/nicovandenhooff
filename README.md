@@ -87,10 +87,10 @@ TeX        14 mins         █░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/UBC-MDS/CoordGeomPy/pull/27) in [UBC-MDS/CoordGeomPy](https://github.com/UBC-MDS/CoordGeomPy)
-2. ❗️ Opened issue [#23](https://github.com/UBC-MDS/CoordGeomPy/issues/23) in [UBC-MDS/CoordGeomPy](https://github.com/UBC-MDS/CoordGeomPy)
-3. ❗️ Opened issue [#7](https://github.com/nicovandenhooff/reddit-data-collector/issues/7) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-4. ❗️ Closed issue [#4](https://github.com/nicovandenhooff/reddit-data-collector/issues/4) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-5. 🗣 Commented on [#4](https://github.com/nicovandenhooff/reddit-data-collector/issues/4) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+1. 💪 Opened PR [#7](https://github.com/UBC-MDS/CoordGeomR/pull/7) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+2. 🎉 Merged PR [#32](https://github.com/UBC-MDS/CoordGeomPy/pull/32) in [UBC-MDS/CoordGeomPy](https://github.com/UBC-MDS/CoordGeomPy)
+3. 🎉 Merged PR [#6](https://github.com/UBC-MDS/CoordGeomR/pull/6) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+4. 🗣 Commented on [#32](https://github.com/UBC-MDS/CoordGeomPy/issues/32) in [UBC-MDS/CoordGeomPy](https://github.com/UBC-MDS/CoordGeomPy)
+5. 💪 Opened PR [#27](https://github.com/UBC-MDS/CoordGeomPy/pull/27) in [UBC-MDS/CoordGeomPy](https://github.com/UBC-MDS/CoordGeomPy)
 <!--END_SECTION:activity-->
 </details>
