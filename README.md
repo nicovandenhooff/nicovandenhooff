@@ -87,10 +87,10 @@ Python     18 mins         ██▒░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com/UBC-MDS/coordgeompy/issues/53) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-2. 🎉 Merged PR [#52](https://github.com/UBC-MDS/coordgeompy/pull/52) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-3. 🎉 Merged PR [#24](https://github.com/UBC-MDS/CoordGeomR/pull/24) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-4. 💪 Opened PR [#21](https://github.com/UBC-MDS/CoordGeomR/pull/21) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-5. 🎉 Merged PR [#42](https://github.com/UBC-MDS/CoordGeomPy/pull/42) in [UBC-MDS/CoordGeomPy](https://github.com/UBC-MDS/CoordGeomPy)
+1. ❗️ Closed issue [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+2. 🗣 Commented on [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+3. ❗️ Opened issue [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+4. 🎉 Merged PR [#26](https://github.com/UBC-MDS/CoordGeomR/pull/26) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+5. ❗️ Opened issue [#53](https://github.com/UBC-MDS/coordgeompy/issues/53) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
 <!--END_SECTION:activity-->
 </details>
