@@ -87,10 +87,10 @@ Python     18 mins         ██▒░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-2. 🗣 Commented on [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-3. ❗️ Opened issue [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-4. 🎉 Merged PR [#26](https://github.com/UBC-MDS/CoordGeomR/pull/26) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-5. ❗️ Opened issue [#53](https://github.com/UBC-MDS/coordgeompy/issues/53) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
+1. 🎉 Merged PR [#8](https://github.com/nicovandenhooff/reddit-data-collector/pull/8) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+2. 💪 Opened PR [#8](https://github.com/nicovandenhooff/reddit-data-collector/pull/8) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+3. ❗️ Closed issue [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+4. 🗣 Commented on [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+5. ❗️ Opened issue [#27](https://github.com/UBC-MDS/CoordGeomR/issues/27) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
 <!--END_SECTION:activity-->
 </details>
