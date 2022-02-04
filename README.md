@@ -83,10 +83,10 @@ No Activity tracked this Week
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-2. ❗️ Closed issue [#53](https://github.com/UBC-MDS/coordgeompy/issues/53) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-3. 🗣 Commented on [#53](https://github.com/UBC-MDS/coordgeompy/issues/53) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-4. ❗️ Opened issue [#32](https://github.com/UBC-MDS/CoordGeomR/issues/32) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-5. ❗️ Opened issue [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
+1. 🗣 Commented on [#4](https://github.com/UBC-MDS/software-review-2022/issues/4) in [UBC-MDS/software-review-2022](https://github.com/UBC-MDS/software-review-2022)
+2. 🗣 Commented on [#3](https://github.com/UBC-MDS/software-review-2022/issues/3) in [UBC-MDS/software-review-2022](https://github.com/UBC-MDS/software-review-2022)
+3. 🗣 Commented on [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
+4. ❗️ Closed issue [#53](https://github.com/UBC-MDS/coordgeompy/issues/53) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
+5. 🗣 Commented on [#53](https://github.com/UBC-MDS/coordgeompy/issues/53) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
 <!--END_SECTION:activity-->
 </details>
