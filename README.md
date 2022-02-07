@@ -83,10 +83,10 @@ No Activity tracked this Week
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/UBC-MDS/CoordGeomR/issues/32) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-2. 🗣 Commented on [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-3. ❗️ Closed issue [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-4. 🗣 Commented on [#4](https://github.com/UBC-MDS/software-review-2022/issues/4) in [UBC-MDS/software-review-2022](https://github.com/UBC-MDS/software-review-2022)
-5. 🗣 Commented on [#3](https://github.com/UBC-MDS/software-review-2022/issues/3) in [UBC-MDS/software-review-2022](https://github.com/UBC-MDS/software-review-2022)
+1. ❗️ Closed issue [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+2. 🗣 Commented on [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+3. ❗️ Closed issue [#32](https://github.com/UBC-MDS/CoordGeomR/issues/32) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+4. 🗣 Commented on [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
+5. ❗️ Closed issue [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
 <!--END_SECTION:activity-->
 </details>
