@@ -85,10 +85,10 @@ Total: 0 secs
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-2. 🗣 Commented on [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
-3. ❗️ Closed issue [#32](https://github.com/UBC-MDS/CoordGeomR/issues/32) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
-4. 🗣 Commented on [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
-5. ❗️ Closed issue [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
+1. 💪 Opened PR [#10](https://github.com/UBC-MDS/mindthegap/pull/10) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+2. ❗️ Closed issue [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+3. 🗣 Commented on [#2](https://github.com/nicovandenhooff/reddit-data-collector/issues/2) in [nicovandenhooff/reddit-data-collector](https://github.com/nicovandenhooff/reddit-data-collector)
+4. ❗️ Closed issue [#32](https://github.com/UBC-MDS/CoordGeomR/issues/32) in [UBC-MDS/CoordGeomR](https://github.com/UBC-MDS/CoordGeomR)
+5. 🗣 Commented on [#56](https://github.com/UBC-MDS/coordgeompy/issues/56) in [UBC-MDS/coordgeompy](https://github.com/UBC-MDS/coordgeompy)
 <!--END_SECTION:activity-->
 </details>
