@@ -85,10 +85,10 @@ Total: 0 secs
   <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/UBC-MDS/mindthegap/pull/12) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-2. ❗️ Reopened issue [#7](https://github.com/UBC-MDS/mindthegap/issues/7) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-3. 🗣 Commented on [#7](https://github.com/UBC-MDS/mindthegap/issues/7) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-4. 🎉 Merged PR [#10](https://github.com/UBC-MDS/mindthegap/pull/10) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-5. ❗️ Closed issue [#7](https://github.com/UBC-MDS/mindthegap/issues/7) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+1. 🗣 Commented on [#13](https://github.com/UBC-MDS/mindthegap/issues/13) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+2. 🗣 Commented on [#8](https://github.com/UBC-MDS/mindthegap/issues/8) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+3. 🗣 Commented on [#14](https://github.com/UBC-MDS/mindthegap/issues/14) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+4. ❗️ Closed issue [#14](https://github.com/UBC-MDS/mindthegap/issues/14) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+5. ❗️ Opened issue [#14](https://github.com/UBC-MDS/mindthegap/issues/14) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
 <!--END_SECTION:activity-->
 </details>
