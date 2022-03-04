@@ -88,10 +88,10 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/UBC-MDS/mindthegap/pull/43) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-2. 🎉 Merged PR [#38](https://github.com/UBC-MDS/mindthegap/pull/38) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-3. 💪 Opened PR [#36](https://github.com/UBC-MDS/mindthegap/pull/36) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-4. ❗️ Opened issue [#35](https://github.com/UBC-MDS/mindthegap/issues/35) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-5. 🗣 Commented on [#24](https://github.com/UBC-MDS/mindthegap/issues/24) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+1. 🎉 Merged PR [#47](https://github.com/UBC-MDS/mindthegap/pull/47) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+2. 🎉 Merged PR [#43](https://github.com/UBC-MDS/mindthegap/pull/43) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+3. 🎉 Merged PR [#38](https://github.com/UBC-MDS/mindthegap/pull/38) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+4. 💪 Opened PR [#36](https://github.com/UBC-MDS/mindthegap/pull/36) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+5. ❗️ Opened issue [#35](https://github.com/UBC-MDS/mindthegap/issues/35) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
 <!--END_SECTION:activity-->
 </details>
