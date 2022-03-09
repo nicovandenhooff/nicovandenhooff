@@ -88,10 +88,10 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/UBC-MDS/mindthegap/issues/29) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-2. 🗣 Commented on [#29](https://github.com/UBC-MDS/mindthegap/issues/29) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-3. 💪 Opened PR [#52](https://github.com/UBC-MDS/mindthegap/pull/52) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-4. 💪 Opened PR [#51](https://github.com/UBC-MDS/mindthegap/pull/51) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
-5. ❗️ Closed issue [#33](https://github.com/UBC-MDS/mindthegap/issues/33) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+1. 💪 Opened PR [#2](https://github.com/UBC-MDS/dash-tableau-shiny_comparison/pull/2) in [UBC-MDS/dash-tableau-shiny_comparison](https://github.com/UBC-MDS/dash-tableau-shiny_comparison)
+2. ❗️ Closed issue [#29](https://github.com/UBC-MDS/mindthegap/issues/29) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+3. 🗣 Commented on [#29](https://github.com/UBC-MDS/mindthegap/issues/29) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+4. 💪 Opened PR [#52](https://github.com/UBC-MDS/mindthegap/pull/52) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
+5. 💪 Opened PR [#51](https://github.com/UBC-MDS/mindthegap/pull/51) in [UBC-MDS/mindthegap](https://github.com/UBC-MDS/mindthegap)
 <!--END_SECTION:activity-->
 </details>
