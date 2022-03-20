@@ -68,12 +68,12 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.96 %
-Markdown     2 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.99 %
-R            16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python       4 hrs 33 mins   ████████████░░░░░░░░░░░░░   48.06 %
+Markdown     3 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.23 %
+R            1 hr 38 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
