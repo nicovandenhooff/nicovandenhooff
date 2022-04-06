@@ -68,12 +68,12 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   29.64 %
-Docker       3 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-JSON         2 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-JavaScript   2 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Text         1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Other        40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Python       4 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   32.92 %
+JSON         2 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+JavaScript   1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Docker       1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Text         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Other        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
