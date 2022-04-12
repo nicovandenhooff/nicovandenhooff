@@ -90,10 +90,10 @@ Other        19 mins         ██░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/UBC-MDS/dsci_525_group8/pull/10) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
-2. 🗣 Commented on [#10](https://github.com/UBC-MDS/dsci_525_group8/issues/10) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
-3. 💪 Opened PR [#9](https://github.com/UBC-MDS/dsci_525_group8/pull/9) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
-4. 🎉 Merged PR [#8](https://github.com/UBC-MDS/dsci_525_group8/pull/8) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
-5. 🗣 Commented on [#2](https://github.com/UBC-MDS/dsci_525_group8/issues/2) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+1. 💪 Opened PR [#13](https://github.com/UBC-MDS/dsci_525_group8/pull/13) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+2. 🎉 Merged PR [#10](https://github.com/UBC-MDS/dsci_525_group8/pull/10) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+3. 🗣 Commented on [#10](https://github.com/UBC-MDS/dsci_525_group8/issues/10) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+4. 💪 Opened PR [#9](https://github.com/UBC-MDS/dsci_525_group8/pull/9) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+5. 🎉 Merged PR [#8](https://github.com/UBC-MDS/dsci_525_group8/pull/8) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
 <!--END_SECTION:activity-->
 </details>
