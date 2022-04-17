@@ -15,7 +15,6 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
     Connect with me: 
     <a href="https://www.linkedin.com/in/nicovandenhooff/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
     <a href="https://twitter.com/nicovandenhooff"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
-    
 </p>
 
 <!--TODO: Projects section-->
@@ -29,22 +28,19 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 ![](https://custom-icon-badges.herokuapp.com/badge/code-SQL-861AF7?logo=database&logoColor=white)
 ![](https://img.shields.io/badge/code-R-861AF7?logo=R&logoColor=white)
 ![](https://img.shields.io/badge/code-Java-861AF7?logo=java&logoColor=white)
-![](https://img.shields.io/badge/code-Markdown-861AF7?logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/code-Latex-861AF7?logo=latex&logoColor=white)
 
-![](https://img.shields.io/badge/package%20manager-Anaconda-861AF7?logo=Anaconda&logoColor=white)
+![](https://img.shields.io/badge/library-scikit%20learn-861AF7?logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/library-PyTorch-861AF7?logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/library-NumPy-861AF7?logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/library-pandas-861AF7?logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/library-SciPy-861AF7?logo=SciPy&logoColor=white)
-![](https://img.shields.io/badge/ML-scikit%20learn-861AF7?logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/DL-Tensorflow-861AF7?logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/library-statsmodels-861AF7)
+![](https://img.shields.io/badge/library-dash-861AF7?logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/library-pytest-861AF7?logo=pytest&logoColor=white)
+
 ![](https://custom-icon-badges.herokuapp.com/badge/data%20viz-matplotlib-861AF7?logo=matplotlib)
 ![](https://img.shields.io/badge/data%20viz-seaborn-861AF7)
 ![](https://img.shields.io/badge/data%20viz-Altair-861AF7)
-
-![](https://img.shields.io/badge/OS-Mac-861AF7?logo=apple&logoColor=white)
-![](https://img.shields.io/badge/editor-Visual%20Studio%20Code-861AF7?logo=Visual%20Studio%20Code&logoColor=white)
-![](https://img.shields.io/badge/version%20control-git-861AF7?logo=Git&logoColor=white)
 
 ### ☁️ Cloud and 🗄️ Database
 
@@ -54,6 +50,8 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 
 ### 💻 Other
 
+![](https://img.shields.io/badge/code-Markdown-861AF7?logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/code-Latex-861AF7?logo=latex&logoColor=white)
 ![](https://img.shields.io/badge/browser-Google%20Chrome-861AF7?logo=Google%20Chrome&logoColor=white)
 ![](https://img.shields.io/badge/communication-Slack-861AF7?logo=Slack&logoColor=white)
 ![](https://img.shields.io/badge/communication-Zoom-861AF7?logo=Zoom&logoColor=white)
@@ -82,7 +80,7 @@ Git Config   4 mins          ▒░░░░░░░░░░░░░░░░
 
 [![Nicos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicovandenhooff&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&show_icons=true&icon_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nico Van den Hooff's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicovandenhooff&bg_color=000000&color=FFFFFF&line=861AF7&point=861AF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Nico Van den Hooff's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicovandenhooff&bg_color=000000&color=FFFFFF&line=861AF7&point=861AF7)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
