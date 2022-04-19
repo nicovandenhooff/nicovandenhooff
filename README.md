@@ -88,10 +88,10 @@ Other        5 mins          ▒░░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nicovandenhooff/react-flask-app/pull/1) in [nicovandenhooff/react-flask-app](https://github.com/nicovandenhooff/react-flask-app)
-2. 💪 Opened PR [#1](https://github.com/nicovandenhooff/react-flask-app/pull/1) in [nicovandenhooff/react-flask-app](https://github.com/nicovandenhooff/react-flask-app)
-3. 💪 Opened PR [#13](https://github.com/UBC-MDS/dsci_525_group8/pull/13) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
-4. 🎉 Merged PR [#10](https://github.com/UBC-MDS/dsci_525_group8/pull/10) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
-5. 🗣 Commented on [#10](https://github.com/UBC-MDS/dsci_525_group8/issues/10) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+1. ❗️ Opened issue [#49](https://github.com/nicovandenhooff/cnn-dashboard/issues/49) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+2. ❗️ Closed issue [#34](https://github.com/nicovandenhooff/cnn-dashboard/issues/34) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+3. ❗️ Closed issue [#40](https://github.com/nicovandenhooff/cnn-dashboard/issues/40) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+4. ❗️ Closed issue [#43](https://github.com/nicovandenhooff/cnn-dashboard/issues/43) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+5. ❗️ Closed issue [#44](https://github.com/nicovandenhooff/cnn-dashboard/issues/44) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
 <!--END_SECTION:activity-->
 </details>
