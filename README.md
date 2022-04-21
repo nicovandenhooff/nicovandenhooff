@@ -88,10 +88,10 @@ Other        19 mins         █░░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/nicovandenhooff/cnn-dashboard/issues/49) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
-2. ❗️ Closed issue [#34](https://github.com/nicovandenhooff/cnn-dashboard/issues/34) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
-3. ❗️ Closed issue [#40](https://github.com/nicovandenhooff/cnn-dashboard/issues/40) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
-4. ❗️ Closed issue [#43](https://github.com/nicovandenhooff/cnn-dashboard/issues/43) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
-5. ❗️ Closed issue [#44](https://github.com/nicovandenhooff/cnn-dashboard/issues/44) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+1. 🎉 Merged PR [#53](https://github.com/nicovandenhooff/cnn-dashboard/pull/53) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+2. 🎉 Merged PR [#51](https://github.com/nicovandenhooff/cnn-dashboard/pull/51) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+3. ❗️ Opened issue [#52](https://github.com/nicovandenhooff/cnn-dashboard/issues/52) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+4. 💪 Opened PR [#51](https://github.com/nicovandenhooff/cnn-dashboard/pull/51) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+5. ❗️ Opened issue [#49](https://github.com/nicovandenhooff/cnn-dashboard/issues/49) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
 <!--END_SECTION:activity-->
 </details>
