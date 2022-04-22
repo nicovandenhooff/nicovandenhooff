@@ -88,10 +88,10 @@ Other        19 mins         █░░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/nicovandenhooff/indoor-scene-detector/pull/57) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-2. 💪 Opened PR [#57](https://github.com/nicovandenhooff/indoor-scene-detector/pull/57) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-3. 🎉 Merged PR [#56](https://github.com/nicovandenhooff/cnn-dashboard/pull/56) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
-4. 💪 Opened PR [#56](https://github.com/nicovandenhooff/cnn-dashboard/pull/56) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
-5. 🎉 Merged PR [#55](https://github.com/nicovandenhooff/cnn-dashboard/pull/55) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
+1. 💪 Opened PR [#15](https://github.com/UBC-MDS/dsci_525_group8/pull/15) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+2. 🎉 Merged PR [#14](https://github.com/UBC-MDS/dsci_525_group8/pull/14) in [UBC-MDS/dsci_525_group8](https://github.com/UBC-MDS/dsci_525_group8)
+3. 🎉 Merged PR [#57](https://github.com/nicovandenhooff/indoor-scene-detector/pull/57) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+4. 💪 Opened PR [#57](https://github.com/nicovandenhooff/indoor-scene-detector/pull/57) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+5. 🎉 Merged PR [#56](https://github.com/nicovandenhooff/cnn-dashboard/pull/56) in [nicovandenhooff/cnn-dashboard](https://github.com/nicovandenhooff/cnn-dashboard)
 <!--END_SECTION:activity-->
 </details>
