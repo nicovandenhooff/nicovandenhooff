@@ -20,19 +20,6 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 
 ## Select projects
 
-<a href="https://github.com/nicovandenhooff/indoor-scene-detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=indoor-scene-detector&theme=midnight-purple" />
-</a>
-<a href="https://github.com/nicovandenhooff/reddit-data-collector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=reddit-data-collector&theme=midnight-purple" />
-</a>
-<a href="https://github.com/nicovandenhooff/top-repo-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=top-repo-analysis&theme=midnight-purple" />
-</a>
-<a href="https://github.com/nicovandenhooff/wids-datathon-2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=wids-datathon-2022&theme=midnight-purple" />
-</a>
-
 <!--Tool box section-->
 ## 🧰 Tool box
 
