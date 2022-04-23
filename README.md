@@ -18,7 +18,7 @@ Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduat
 
 <!--TODO: Projects section-->
 
-## Selected projects
+## Select projects
 
 <a href="https://github.com/nicovandenhooff/indoor-scene-detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=indoor-scene-detector&theme=midnight-purple" />
