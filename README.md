@@ -9,15 +9,30 @@ To make your own: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.
 
 <!--Welcome section-->
 ## 👋🏽 Welcome 
-Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.  I'm passionate about Machine Learning and Deep Learning.
+Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.  I'm passionate about machine learning, especially computer vision.
 
 <p align="left">
-    Connect with me: 
+    Connect with me:
     <a href="https://www.linkedin.com/in/nicovandenhooff/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
     <a href="https://twitter.com/nicovandenhooff"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
 </p>
 
 <!--TODO: Projects section-->
+
+## Selected projects
+
+<a href="https://github.com/nicovandenhooff/indoor-scene-detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=indoor-scene-detector&theme=midnight-purple" />
+</a>
+<a href="https://github.com/nicovandenhooff/reddit-data-collector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=reddit-data-collector&theme=midnight-purple" />
+</a>
+<a href="https://github.com/nicovandenhooff/top-repo-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=top-repo-analysis&theme=midnight-purple" />
+</a>
+<a href="https://github.com/nicovandenhooff/wids-datathon-2022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=wids-datathon-2022&theme=midnight-purple" />
+</a>
 
 <!--Tool box section-->
 ## 🧰 Tool box
