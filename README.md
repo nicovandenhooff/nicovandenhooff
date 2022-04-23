@@ -12,7 +12,6 @@ To make your own: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.
 Hi there, I'm [Nico](https://www.nicovandenhooff.com/).  I'm currently a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.  I'm passionate about machine learning, especially computer vision.
 
 <p align="left">
-    Connect with me:
     <a href="https://www.linkedin.com/in/nicovandenhooff/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
     <a href="https://twitter.com/nicovandenhooff"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
 </p>
