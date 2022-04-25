@@ -101,10 +101,10 @@ Text         32 mins         █▒░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/nicovandenhooff/indoor-scene-detector/pull/60) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-2. 💪 Opened PR [#60](https://github.com/nicovandenhooff/indoor-scene-detector/pull/60) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-3. ❗️ Closed issue [#49](https://github.com/nicovandenhooff/indoor-scene-detector/issues/49) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-4. 🎉 Merged PR [#59](https://github.com/nicovandenhooff/indoor-scene-detector/pull/59) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-5. 💪 Opened PR [#59](https://github.com/nicovandenhooff/indoor-scene-detector/pull/59) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+1. 🎉 Merged PR [#61](https://github.com/nicovandenhooff/indoor-scene-detector/pull/61) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+2. 💪 Opened PR [#61](https://github.com/nicovandenhooff/indoor-scene-detector/pull/61) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+3. 🎉 Merged PR [#60](https://github.com/nicovandenhooff/indoor-scene-detector/pull/60) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+4. 💪 Opened PR [#60](https://github.com/nicovandenhooff/indoor-scene-detector/pull/60) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+5. ❗️ Closed issue [#49](https://github.com/nicovandenhooff/indoor-scene-detector/issues/49) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
 <!--END_SECTION:activity-->
 </details>
