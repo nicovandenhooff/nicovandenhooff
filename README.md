@@ -77,11 +77,11 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm curre
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 34 mins    ██████████▒░░░░░░░░░░░░░░   41.43 %
-Markdown     1 hr 20 mins    █████████░░░░░░░░░░░░░░░░   35.39 %
-Text         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-JavaScript   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Python       1 hr 34 mins    ███████████▒░░░░░░░░░░░░░   45.84 %
+Markdown     1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.30 %
+Text         21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+JavaScript   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
