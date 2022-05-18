@@ -77,9 +77,8 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm curre
 <!--START_SECTION:waka-->
 
 ```text
-SQL          1 hr 10 mins    ███████████████████░░░░░░   76.55 %
-Markdown     13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Other        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Markdown     13 mins         ███████████████░░░░░░░░░░   60.50 %
+Other        4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
 ```
 
 <!--END_SECTION:waka-->
