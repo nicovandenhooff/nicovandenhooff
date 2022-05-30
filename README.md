@@ -100,10 +100,10 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
-2. 🎉 Merged PR [#61](https://github.com/nicovandenhooff/indoor-scene-detector/pull/61) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-3. 💪 Opened PR [#61](https://github.com/nicovandenhooff/indoor-scene-detector/pull/61) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-4. 🎉 Merged PR [#60](https://github.com/nicovandenhooff/indoor-scene-detector/pull/60) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
-5. 💪 Opened PR [#60](https://github.com/nicovandenhooff/indoor-scene-detector/pull/60) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+1. 🗣 Commented on [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
+2. ❗️ Opened issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
+3. 🎉 Merged PR [#61](https://github.com/nicovandenhooff/indoor-scene-detector/pull/61) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+4. 💪 Opened PR [#61](https://github.com/nicovandenhooff/indoor-scene-detector/pull/61) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+5. 🎉 Merged PR [#60](https://github.com/nicovandenhooff/indoor-scene-detector/pull/60) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
 <!--END_SECTION:activity-->
 </details>
