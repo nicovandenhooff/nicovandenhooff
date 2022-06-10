@@ -77,8 +77,8 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm curre
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 43 mins    ████████████████░░░░░░░░░   64.33 %
-Other    29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+Python   3 hrs 43 mins   █████████████░░░░░░░░░░░░   52.23 %
+Other    2 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   36.15 %
 ```
 
 <!--END_SECTION:waka-->
