@@ -77,8 +77,12 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm curre
 <!--START_SECTION:waka-->
 
 ```text
-Python   53 mins         █████████████████▒░░░░░░░   68.85 %
-Other    21 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
+Markdown   1 hr 57 mins    ██████████████▒░░░░░░░░░░   57.26 %
+YAML       51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
+Python     28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+BibTeX     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
