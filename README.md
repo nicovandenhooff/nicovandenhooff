@@ -101,10 +101,10 @@ Text       1 min           ░░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
-2. 🗣 Commented on [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
+1. 🗣 Commented on [#36](https://github.com/TRIUMF-Capstone2022/richai/issues/36) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+2. ❗️ Closed issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
 3. 🗣 Commented on [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
-4. ❗️ Opened issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
-5. 🎉 Merged PR [#61](https://github.com/nicovandenhooff/indoor-scene-detector/pull/61) in [nicovandenhooff/indoor-scene-detector](https://github.com/nicovandenhooff/indoor-scene-detector)
+4. 🗣 Commented on [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
+5. ❗️ Opened issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
 <!--END_SECTION:activity-->
 </details>
