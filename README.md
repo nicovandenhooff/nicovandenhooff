@@ -101,10 +101,10 @@ Text       1 min           ░░░░░░░░░░░░░░░░░�
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/TRIUMF-Capstone2022/richai/issues/36) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
-2. ❗️ Closed issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
-3. 🗣 Commented on [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
-4. 🗣 Commented on [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
-5. ❗️ Opened issue [#129](https://github.com/rusty1s/pytorch_cluster/issues/129) in [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster)
+1. ❗️ Closed issue [#4](https://github.com/TRIUMF-Capstone2022/richai/issues/4) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+2. 🗣 Commented on [#19](https://github.com/TRIUMF-Capstone2022/richai/issues/19) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+3. 🗣 Commented on [#36](https://github.com/TRIUMF-Capstone2022/richai/issues/36) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+4. ❗️ Closed issue [#18](https://github.com/TRIUMF-Capstone2022/richai/issues/18) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+5. ❗️ Closed issue [#3](https://github.com/TRIUMF-Capstone2022/richai/issues/3) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
 <!--END_SECTION:activity-->
 </details>
