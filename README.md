@@ -99,10 +99,10 @@ Other        16 mins         █░░░░░░░░░░░░░░░░
   <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/TRIUMF-Capstone2022/richai/pull/51) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
-2. ❗️ Opened issue [#53](https://github.com/TRIUMF-Capstone2022/richai/issues/53) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
-3. 💪 Opened PR [#51](https://github.com/TRIUMF-Capstone2022/richai/pull/51) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
-4. ❗️ Closed issue [#49](https://github.com/TRIUMF-Capstone2022/richai/issues/49) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
-5. 🎉 Merged PR [#50](https://github.com/TRIUMF-Capstone2022/richai/pull/50) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+1. ❗️ Closed issue [#19](https://github.com/TRIUMF-Capstone2022/richai/issues/19) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+2. ❗️ Closed issue [#36](https://github.com/TRIUMF-Capstone2022/richai/issues/36) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+3. 🎉 Merged PR [#54](https://github.com/TRIUMF-Capstone2022/richai/pull/54) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+4. 💪 Opened PR [#54](https://github.com/TRIUMF-Capstone2022/richai/pull/54) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
+5. 🎉 Merged PR [#51](https://github.com/TRIUMF-Capstone2022/richai/pull/51) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
 <!--END_SECTION:activity-->
 </details>
