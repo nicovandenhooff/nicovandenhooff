@@ -9,7 +9,7 @@ To make your own: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.
 
 <!--Welcome section-->
 ## 👋🏽 Welcome 
-Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm currently a graduate student in the Master's of Data Science program at the University of British Columbia.  I'm passionate about machine learning, deep learning, and computer vision.
+Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Junior Machine Learning Scientist at Patriot One Technologies.  I'm passionate about machine learning, deep learning, and computer vision.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nicovandenhooff/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
