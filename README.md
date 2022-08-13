@@ -77,10 +77,9 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Jun
 <!--START_SECTION:waka-->
 
 ```text
-Python   16 hrs 9 mins   ████████████████████▓░░░░   83.11 %
-YAML     2 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-CSV      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Python   13 hrs 35 mins  █████████████████▓░░░░░░░   71.12 %
+YAML     5 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.49 %
+Other    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
