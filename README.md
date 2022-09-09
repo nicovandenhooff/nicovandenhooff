@@ -77,7 +77,10 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Jun
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash     2 hrs 58 mins   ██████████████████▓░░░░░░   74.75 %
+Python   55 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 %
+YAML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
