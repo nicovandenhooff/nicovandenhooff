@@ -36,6 +36,7 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Mac
 -->
 
 <!--Tool box section-->
+
 <!--
 ## 🧰 Tool box
 
@@ -77,36 +78,46 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Mac
 ![](https://img.shields.io/badge/code-Latex-861AF7?logo=latex&logoColor=white)
 
 ## Weekly development summary
+-->
+
 <!--START_SECTION:waka-->
 
+<!--
 ```text
 Python   3 hrs 42 mins   ██████████████████▓░░░░░░   74.73 %
 YAML     35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
 Bash     26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
 Other    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
+-->
 
 <!--END_SECTION:waka-->
 
+<!--
 *Note: This is a summary of my weekly VS Code time, but does not include the time I spend working in Jupyter Notebooks.*
 
 ## GitHub stats
 
 [![Nicos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicovandenhooff&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&show_icons=true&icon_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!-- [![Nico Van den Hooff's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicovandenhooff&bg_color=000000&color=FFFFFF&line=861AF7&point=861AF7)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+
+<!--
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
+-->
   
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity
 1. ❗️ Closed issue [#19](https://github.com/TRIUMF-Capstone2022/richai/issues/19) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
 2. ❗️ Closed issue [#36](https://github.com/TRIUMF-Capstone2022/richai/issues/36) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
 3. 🎉 Merged PR [#54](https://github.com/TRIUMF-Capstone2022/richai/pull/54) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
 4. 💪 Opened PR [#54](https://github.com/TRIUMF-Capstone2022/richai/pull/54) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
 5. 🎉 Merged PR [#51](https://github.com/TRIUMF-Capstone2022/richai/pull/51) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
-<!--END_SECTION:activity-->
+END_SECTION:activity-->
+<!--
 </details>
 -->
