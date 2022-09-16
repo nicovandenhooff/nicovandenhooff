@@ -9,7 +9,7 @@ To make your own: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.
 
 <!--Welcome section-->
 ## 👋🏽 Welcome 
-Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Junior Machine Learning Scientist at Patriot One Technologies.  I'm passionate about machine learning, deep learning, and computer vision.
+Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Machine Learning Scientist at Patriot One Technologies.  I'm passionate about machine learning, deep learning, and computer vision.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nicovandenhooff/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
@@ -18,6 +18,7 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Jun
 
 <!--Projects section-->
 
+<!--
 ## Select projects
 
 <a href="https://github.com/nicovandenhooff/indoor-scene-detector">
@@ -32,8 +33,10 @@ Hi there, I'm [Nico Van den Hooff](https://www.nicovandenhooff.com/).  I'm a Jun
 <a href="https://github.com/nicovandenhooff/wids-datathon-2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicovandenhooff&repo=wids-datathon-2022&theme=midnight-purple" />
 </a>
+-->
 
 <!--Tool box section-->
+<!--
 ## 🧰 Tool box
 
 ### 👨🏽‍💻Programming
@@ -106,3 +109,4 @@ Other    8 mins          ▓░░░░░░░░░░░░░░░░░�
 5. 🎉 Merged PR [#51](https://github.com/TRIUMF-Capstone2022/richai/pull/51) in [TRIUMF-Capstone2022/richai](https://github.com/TRIUMF-Capstone2022/richai)
 <!--END_SECTION:activity-->
 </details>
+-->
